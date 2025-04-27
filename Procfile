@@ -1,1 +1,1 @@
-web: gunicorn 'afrodita.wsgi'
+web: gunicorn afroditaapi.wsgi
